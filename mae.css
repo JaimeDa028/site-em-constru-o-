@@ -20,7 +20,7 @@ body{
   padding-top: 10px;
     
     text-align: center;
-    background-image: url("../Fundo1.png");
+    background-image: url("Fundo1.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -68,7 +68,7 @@ header p{
   padding: 40px;
   font-size: 22px;
   color: white;
-  background-image: url("../Fundo1.png");
+  background-image: url("Fundo1.png");
   
 }
 .imgStreaming{
@@ -86,7 +86,7 @@ header p{
   text-align: center;
   font-size: 22px;
   color: white;
-  background-image: url("../Fundo1.png");
+  background-image: url("Fundo1.png");
   
 
 
