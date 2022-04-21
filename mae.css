@@ -1,0 +1,113 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+
+  text-align: center;
+}
+.center{
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 0 5%;
+
+}
+.m{
+  padding: 30px;
+  padding-top: 10px;
+    
+    text-align: center;
+    background-image: url("../logos/Fundo1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+header {
+  padding: 10px 0;
+  
+}
+.logo{
+  width: 0%;
+  padding: 10px 0;
+  
+}
+.menu{
+  display: inline-block;
+width: 100%;
+padding:30px 0;
+padding-left: 30px;
+text-align: right;
+font-size: 40px;
+}
+.menu a{
+  color: white;
+  text-decoration: none;
+}
+
+header h1{
+  padding: 40px;
+  color: black;
+}
+header p{
+  max-width: 1000px;
+  font-size: 32px;
+  font-family: sans-serif;
+}
+
+.botao{
+  padding:0 10px;
+  font-size: 21px;
+  background-color: black;
+  color: white;
+}
+
+.TituloStreaming{
+  padding: 40px;
+  font-size: 22px;
+  color: white;
+  background-image: url("../logos/Fundo1.png");
+  
+}
+.imgStreaming{
+  padding: 30px 0;
+  
+}
+.imgStreaming2{
+
+  padding: 30px 0;
+  
+}
+.RedeSocias{
+  
+  padding: 40px;
+  text-align: center;
+  font-size: 22px;
+  color: white;
+  background-image: url("../logos/Fundo1.png");
+  
+
+
+}
+.centerRedeSocias{
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 0 20%;
+  
+
+  background-color: black;
+}
+.imgRedeSocias1{
+  padding: 50px;
+}
+.imgRedeSocias2{
+  padding:  50px;
+  
+}
+.imgRedeSocias3{
+  padding: 50px;
+}
